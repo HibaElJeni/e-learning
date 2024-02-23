@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218.091" height="44" viewBox="0 0 218.091 44">
+  <g id="Groupe_10484" data-name="Groupe 10484" transform="translate(-213 -65)">
+    <g id="Groupe_3" data-name="Groupe 3" transform="translate(27.833 6.333)">
+      <g id="Groupe_1" data-name="Groupe 1" transform="translate(209.464 66.667)">
+        <path id="Tracé_1" data-name="Tracé 1" d="M136.893,239.732h-5.476l10.832-15.012H151.8l-8.447,11.706A7.969,7.969,0,0,1,136.893,239.732Z" transform="translate(-131.417 -210.732)" fill="#04bf68" opacity="0.8"/>
+        <path id="Tracé_2" data-name="Tracé 2" d="M137.937,201.037h-5.51l15.012,20.516,4.777-6.528L144.368,204.3A7.969,7.969,0,0,0,137.937,201.037Z" transform="translate(-131.83 -201.037)" fill="#04bf68"/>
+      </g>
+      <g id="Groupe_2" data-name="Groupe 2" transform="translate(185.167 66.667)">
+        <path id="Tracé_3" data-name="Tracé 3" d="M98.339,239.732h5.476L92.983,224.72H83.43l8.447,11.706A7.968,7.968,0,0,0,98.339,239.732Z" transform="translate(-83.43 -210.732)" fill="#04bf68" opacity="0.8"/>
+        <path id="Tracé_4" data-name="Tracé 4" d="M97.709,201.037h5.509L88.207,221.553l-4.777-6.528L91.277,204.3A7.969,7.969,0,0,1,97.709,201.037Z" transform="translate(-83.43 -201.037)" fill="#04bf68"/>
+      </g>
+    </g>
+    <text id="SCRIPTS" transform="translate(273.091 100)" fill="#303030" font-size="36" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SCRIPTS</tspan></text>
+  </g>
+</svg>

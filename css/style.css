@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F9F9F9;
+    font-weight: 400;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.slide-img {
+    justify-content: center;
+    border-radius: 14px;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.slide-text {
+    padding-top: 9%;
+}
+
+.card {
+    margin-bottom: 20px;
+    background-color: #EAF2F1;
+    border: transparent;
+}
+
+.card-icon {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-right: 15px;
+}
+
+h5.card-title {
+    font-weight: 600;
+    color: #03a158;
+}
+
+
+
+p.mt-2 {
+    color: #fff;
+}
+
+h1.text1 {
+    color: #ffffff;
+    font-weight: 800;
+}
+
+.bg-white {
+    border-radius: 14px;
+    --bs-bg-opacity: 1;
+    background-color: #FFFFFF;
+
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    justify-content: space-between;
+}
+
+.tilte-one {
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    position: relative;
+
+}
+
+.bttn-center {
+    align-items: center;
+
+
+    margin: auto;
+
+    position: relative;
+}
+
+.coding-language {
+
+    padding: 25px;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #04BF68;
+    --bs-btn-border-color: #04BF68;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #03a158;
+    --bs-btn-hover-border-color: #03a158;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #04b562;
+    --bs-btn-active-border-color: #04b562;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #04BF68;
+    --bs-btn-disabled-border-color: #04BF68;
+
+}
+
+.btn-outline-primary {
+    --bs-btn-color: #04BF68;
+    --bs-btn-border-color: #04BF68;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #04BF68;
+    --bs-btn-hover-border-color: #04BF68;
+    --bs-btn-focus-shadow-rgb: 13, 110, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #04BF68;
+    --bs-btn-active-border-color: #04BF68;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #05e47c;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #05e47c;
+    --bs-gradient: none;
+}
+
+.footer {
+    background-color: #fff;
+    padding: 55px 0;
+    margin-top: auto;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer .icon {
+    margin-right: 40px;
+}
+
+.footer .copyright {
+    font-size: 14px;
+}
+
+.text-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+
+}
+
+
+.card-area {
+    background-color: #EAF2F1;
+
+
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 10px 15px 8px 15px;
+    color: var(--bs-card-color);
+}
+
+.card-cours {
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.link-cours {
+    text-decoration: none;
+    color: #818181;
+
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-rating {
+    color: #04BF68;
+    /* couleur jaune pour les étoiles */
+}
+
+.card-img,
+.card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card-text {
+    font-weight: 400;
+    font-size: 14px;
+    color: #818181;
+}
+
+h4.card-title {
+    font-weight: 700;
+    font-size: 18px;
+    color: #01261C;
+
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 5px 0px;
+    color: var(--bs-card-cap-color);
+    background-color: #fff;
+    border-top: 1px solid;
+    border-color: #EAF2F1;
+
+}
+
+.footer-copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 5px 0px;
+    color: var(--bs-card-cap-color);
+    background-color: #fff;
+    border-top: 1px solid;
+    border-color: #EAF2F1;
+
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-price {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.info-icone {
+    padding-right: 8px;
+}
+
+.body-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.footer-title {
+    color: #01261C;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+ul {
+    list-style: none;
+    padding-left: 0.5rem;
+}
+
+.footer .footer-link ul a {
+    font-size: 16px;
+    text-decoration: none;
+    color: inherit;
+    margin-top: 16px;
+    font-weight: 400;
+}
+
+.text-right .text1 {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 10px;
+}
+
+.text-right .text2 {
+    text-decoration: none;
+    color: inherit;
+    margin-left: 10px;
+}
